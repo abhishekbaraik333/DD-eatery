@@ -228,6 +228,9 @@ footer {
   .next2 {
     font-size: 1.3rem;
   }
+  .menu-title{
+    font-size: 1.6rem;
+  }
 }
 
 .menu-list li {
