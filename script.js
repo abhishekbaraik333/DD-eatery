@@ -35,11 +35,11 @@ window.addEventListener("resize", updateLogoSize);
 
 
 const items = [
-    " GRILLED PORK CHOP",
-    "FRIED FISH",
-    "GRILLED CHICKEN BREAST",
-    "BEEF STEAK",
-    "VEGAN BURGER"
+    " Chocolate cake ",
+    "Hot dog w/ fries",
+    "Pork chop (smothered) ",
+    "Chitterlings   ",
+    "Baby back Ribs "
   ];
 
   let index = 0;
@@ -85,11 +85,11 @@ const items = [
   setInterval(cycleText, 3000); // change every 3s
 
 const items2 = [
-    " GRILLED PORK",
-    "FRIED FISH",
-    "GRILLED CHICKEN",
-    "BEEF STEAK",
-    "VEGAN BURGER"
+    " Collard Greens ",
+    "Potato Salad",
+    "Spaghetti",
+    "Pound Cake",
+    "Peach Cobbler "
   ];
 
   let index2 = 0;
