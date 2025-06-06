@@ -88,7 +88,6 @@ const items2 = [
     " Collard Greens ",
     "Potato Salad",
     "Spaghetti",
-    "Pound Cake",
     "Peach Cobbler "
   ];
 
